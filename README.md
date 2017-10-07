@@ -1,6 +1,6 @@
 # Mean4Starter
 
-This is a starter template for a full MEAN stack application using Angular 4.  
+This is a starter template for a full MEAN stack application that uses Angular 4 and Bootstrap 3.
 
 On the MongoDB side, there is a Node route that assumes that there is a Mongo database called "mean4-starter", with a collection called "articles".  This is reconfigurable and is meant to be a placeholder.
 

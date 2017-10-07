@@ -1,4 +1,4 @@
-# Mean4Starter
+# MEAN4 Starter
 
 This is a starter template for a full MEAN stack application that uses Angular 4 and Bootstrap 3.
 
